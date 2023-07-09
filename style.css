@@ -1,0 +1,42 @@
+body {
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    background-image: url(https://2.bp.blogspot.com/-1GoK-oCIvwo/Wjc88-fTfXI/AAAAAAAADWM/6SobjBXMoIgiITCFMvMgU07XPf_-JQscACLcBGAs/s1600/logopmii.png);
+    background-position: top;
+    background-size: 50%;
+    background-repeat: no-repeat;
+}
+.login-box {
+    background-color: rgba(255, 255, 255, 0.623);
+    margin: auto;
+    background-position: bottom;
+    text-align: center;
+    width: 360px;
+    height: auto;
+    border-radius: 3px;
+    border: aqua;
+    margin-top: 5%;
+    margin-bottom: auto;
+    padding-top: 10px;
+    padding-bottom: 35px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.login-box h1{
+    font-family: lobster;
+}
+input[type="text"]{
+    margin-top: 10px;
+}
+input[type="password"]{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+input[type="button"]{
+    margin-top: 10px;
+    background-color: royalblue;
+    color: seashell;
+}
+input[type="button"]:hover {
+    color: yellow;
+}
